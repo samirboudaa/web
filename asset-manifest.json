@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.989f397c.chunk.css",
+    "main.css": "/static/css/main.1cd6d197.chunk.css",
     "main.js": "/static/js/main.d8461dbe.chunk.js",
     "main.js.map": "/static/js/main.d8461dbe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5f677427.js",
@@ -8,16 +8,16 @@
     "static/js/2.5e94ba83.chunk.js": "/static/js/2.5e94ba83.chunk.js",
     "static/js/2.5e94ba83.chunk.js.map": "/static/js/2.5e94ba83.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4bfdbf310e8b0b622416e762095d7764.js": "/precache-manifest.4bfdbf310e8b0b622416e762095d7764.js",
+    "precache-manifest.e0e90c280d8958a59479a64b46ff70b8.js": "/precache-manifest.e0e90c280d8958a59479a64b46ff70b8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.989f397c.chunk.css.map": "/static/css/main.989f397c.chunk.css.map",
+    "static/css/main.1cd6d197.chunk.css.map": "/static/css/main.1cd6d197.chunk.css.map",
     "static/js/2.5e94ba83.chunk.js.LICENSE.txt": "/static/js/2.5e94ba83.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/static/media/Questrial-Regular.37c8a1aa.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.5f677427.js",
     "static/js/2.5e94ba83.chunk.js",
-    "static/css/main.989f397c.chunk.css",
+    "static/css/main.1cd6d197.chunk.css",
     "static/js/main.d8461dbe.chunk.js"
   ]
 }
